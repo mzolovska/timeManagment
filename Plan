@@ -1,3 +1,6 @@
 This is the project for the Mobile Application class. 
 Team members: Regine Wang and Mariya Zolovska
 Team name: Time travellers
+This program was developed specifically to help people manage their daily lives correctly. This will enable users to create a daily routine in time so that they can follow it. This is more useful for students or college students.
+The system uses Android Studio for front-end development and operation. The application does not require a backend as such applications use data from the phone itself and project it to the user. Data will be stored locally on the device using SQLite.
+Once completed, they will be able to use it and enter tasks and schedules in a timely manner. Users can add, delete, update and get all their tasks. The created tasks will appear on the homepage as differently colored squares, located at the time they should be executed.
